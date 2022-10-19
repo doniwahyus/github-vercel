@@ -16,6 +16,7 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20",
     "pg": "^8.8.0",
-    "sequelize": "^6.25.3"
+    "sequelize": "^6.25.3",
+    "unique-names-generator": "^4.7.1"
   }
 }
